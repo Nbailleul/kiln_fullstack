@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Prerequisite
 Have the Metamask plugin installed in you browser
+node required v16.19.0
 ## Getting Started
 First install the packages :
 npm install
